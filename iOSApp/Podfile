@@ -1,0 +1,12 @@
+platform :ios, "5.1"
+
+target "iOSApp" do
+pod 'ApigeeiOSSDK', '~> 2.0'
+pod 'MBProgressHUD', '~> 0.8'
+pod 'AsyncImageView', '~> 1.5'
+end
+
+target "iOSAppTests" do
+
+end
+
